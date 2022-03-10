@@ -7,8 +7,6 @@
 
 - 📫 How to reach me: **varm@ic.ufal.br**
 
-- ⚡ What I like to do: **I enjoy listening to music**
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
