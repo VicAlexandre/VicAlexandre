@@ -28,6 +28,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+  <a href="https://alpinejs.dev" target="_blank">
+   <img src="https://www.markusantonwolf.com/topics/alpine-js/alpinejs-logo.svg" alt="alpine" width="40" height="40"/> 
+    </a> 
   <a href="https://tailwindcss.com" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="linux" width="40" height="40"/> 
   </a> 
