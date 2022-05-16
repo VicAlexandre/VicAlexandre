@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A computer engineering student and beginner Front-end developer from Brazil</h3>
+<h3 align="center">A computer engineering student and beginner developer from Brazil</h3>
 
-- 🔭 I’m currently working on developing **responsive and beautiful web pages**
-
-- 🌱 I’m currently learning **Javascript, HTML5 and CSS3**
+- 🌱 I’m currently learning **C++ and C**, and i'm also interested in machine learning and IoT!
 
 - 📫 How to reach me: **varm@ic.ufal.br**
 
