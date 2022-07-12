@@ -27,7 +27,7 @@
     <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" alt="html5" width="60" height="60"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="css3" width="60" height="60"/> 
+    <img src="https://icon-library.com/images/css-3-icon/css-3-icon-21.jpg" alt="css3" width="60" height="60"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
