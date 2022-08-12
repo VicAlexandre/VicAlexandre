@@ -31,6 +31,9 @@
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="typescript" width="60" height="60"/> 
   </a> 
   <a href="https://reactjs.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="60" height="60"/> 
