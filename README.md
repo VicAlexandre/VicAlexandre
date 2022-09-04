@@ -36,6 +36,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="typescript" width="60" height="60"/> 
   </a> 
   <a href="https://reactjs.org" target="_blank"> 
+    <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="next" width="60" height="60"/> 
+  </a> 
+  <a href="https://nextjs.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="60" height="60"/> 
   </a> 
   <a href="https://tailwindcss.com" target="_blank"> 
