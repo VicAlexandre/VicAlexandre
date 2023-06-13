@@ -20,7 +20,10 @@
   </a> 
   <a href="" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="60" height="60"/> 
-  </a>  
+  </a>
+    <a href="" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="60" height="60"/> 
+  </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" alt="html5" width="60" height="60"/> 
   </a>
