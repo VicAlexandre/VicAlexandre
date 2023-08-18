@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A computer science student and firmware developer from Brazil</h3>
 
-- 📫 How to reach me:
-- **varm@ic.ufal.br**
-- **victor.miranda@edge.ufal.br**
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
