@@ -28,6 +28,9 @@
   <a href="https://www.typescriptlang.org/docs/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="typescript" width="60" height="60"/> 
   </a> 
+  <a href="https://www.rust-lang.org/learn" target="_blank"> 
+    <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" alt="rust" width="60" height="60"/> 
+  </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
   </a>
