@@ -41,7 +41,6 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
   </a>
-  
     <a href="" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/265px-Tux.svg.png" alt="linux" width="60" height="60"/> 
   </a>
