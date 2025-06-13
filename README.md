@@ -1,5 +1,5 @@
-<h3 align="center">computer science && embedded software and firmware engineering</h3>
-<h3 align="center">Currently interested in Zephyr, C, low-level and systems programming, functional programming, metaheuristics, embedded systems and software architecture</h3>
+<h3 align="center">Computer Science && Embedded Software and Firmware Engineering</h3>
+<h3 align="center"> Zephyr, C, low-level and systems programming, functional programming, metaheuristics, embedded systems and software architecture </h3>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
