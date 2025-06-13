@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Victor <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A computer science student and firmware developer from Brazil</h3>
-<h3 align="center">Currently interested in Rust, Zephyr, C, low-level and systems programming, functional programming, metaheuristics and embedded systems</h3>
+<h3 align="center">computer science && embedded software and firmware engineering</h3>
+<h3 align="center">Currently interested in Zephyr, C, low-level and systems programming, functional programming, metaheuristics, embedded systems and software architecture</h3>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
